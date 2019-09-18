@@ -291,6 +291,19 @@ textarea.form-control {
   border: 2px solid transparent;
 }
 
+
+.btn.btn-outline-black {
+  border: 2px solid #3B1A4F;
+  background-color: #3B1A4F;
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn.btn-outline-black:hover {
+  background: #fff;
+  color: #3B1A4F;
+  border: 2px solid #3B1A4F;
+}
 .bg-image, .half .image, .image-bg-fullwidth {
   background-size: cover;
   background-position: center center;
